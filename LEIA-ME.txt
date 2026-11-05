@@ -1,0 +1,36 @@
+SPLIT CLIMATIZAÇÃO E REFRIGERAÇÃO — SITE ONE PAGE
+=================================================
+
+COMO PUBLICAR
+1. Extraia o ZIP.
+2. Envie index.html e a pasta assets para a pasta public_html de sua hospedagem.
+3. Acesse seu domínio e confira o site no celular e computador.
+4. Não é necessário banco de dados, PHP ou instalação de dependências.
+
+ESTRUTURA
+index.html
+assets/css/style.css
+assets/js/script.js
+assets/imagens/ (logomarca, foto do hero, 9 fotos de galeria, etc.)
+
+DADOS JÁ CONFIGURADOS
+WhatsApp: (45) 99108-0072
+SEO básico: título, descrição, etiquetas Open Graph, HTML semântico, imagens otimizadas e responsividade.
+Rodapé: desenvolvido por Agência Neo Arte — https://neoartepub.com.br
+
+INFORMAÇÕES QUE PRECISAM DE CONFIRMAÇÃO DA EMPRESA ANTES DE PUBLICAR
+* Endereço: não foi possível confirmar a rua/número da empresa SPLIT da arte fornecida. O mapa atualmente exibe Cascavel/PR (e não o endereço de outra empresa). Quando confirmar o endereço, substitua o texto e o endereço do iframe no index.html.
+* Instagram e Facebook: seus botões estão visíveis mas ainda não há URLs oficiais verificadas; preencha o href de cada link com o perfil confirmado. Com o href diferente de '#', o bloqueio automático deixa de ocorrer.
+* Horário: consta 'Horários sob consulta' até que o atendimento oficial seja confirmado.
+* Formas de pagamento: ícones demonstrativos; confirmar condições aceitas pelo cliente antes da divulgação.
+* Fotografias da galeria e do hero são ILUSTRATIVAS e não correspondem a serviços reais comprovados da Split. Substituir por fotos autorizadas quando disponíveis.
+
+PERSONALIZAR O WHATSAPP
+Arquivo assets/js/script.js: primeira linha de configuração (const PHONE).
+Os botões de serviços enviam mensagens separadas, e o formulário monta texto personalizado e abre o WhatsApp.
+O visitante precisa confirmar o envio no próprio WhatsApp.
+
+NOTAS TÉCNICAS
+- Algumas visualizações de mapa exigem internet e podem não renderizar ao abrir pelo arquivo file://.
+- Os recursos de estilo, imagem, ícones e scripts funcionam sem bibliotecas externas.
+- O logo é extraído da arte enviada e otimizado para usar sobre fundo azul-marinho.
